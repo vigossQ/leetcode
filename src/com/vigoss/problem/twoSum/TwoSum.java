@@ -1,12 +1,15 @@
-package com.vigoss;
+package com.vigoss.problem.twoSum;
 
 import java.util.*;
 
 /**
  * @author vigoss
+ * <p>
+ * _1_两数之和
+ * https://leetcode-cn.com/problems/two-sum/
  * @date 2019/5/10
  */
-public class _1_两数之和 {
+public class TwoSum {
     /**
      * 给定一个整数数组 nums 和一个目标值 target，请你在该数组中找出和为目标值的那 两个 整数，并返回他们的数组下标。
      *
